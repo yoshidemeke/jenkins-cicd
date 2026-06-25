@@ -36,8 +36,8 @@
 						<environment>${environment}</environment>
 						<target>${target}</target>
 						<muleVersion>${muleVersion}</muleVersion>
-						<username>${username}</username>
-						<password>![CDATA[P@$$w0^d(]]</password>
+						<username>${user}</username>
+						<password>!{pass}</password>
 						<applicationName>${applicationName}</applicationName>
 						<replicas>1</replicas>
 						<vCores>1</vCores>
