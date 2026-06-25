@@ -37,7 +37,7 @@
 						<target>${target}</target>
 						<muleVersion>${muleVersion}</muleVersion>
 						<username>${username}</username>
-						<password>${password}</password>
+						<password>![CDATA[P@$$w0^d(]]</password>
 						<applicationName>${applicationName}</applicationName>
 						<replicas>1</replicas>
 						<vCores>1</vCores>
