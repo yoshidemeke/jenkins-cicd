@@ -36,7 +36,7 @@
 						<environment>${environment}</environment>
 						<target>${target}</target>
 						<muleVersion>${muleVersion}</muleVersion>
-						<username>${username}</username>
+						<userName>${userName}</userName>
 						<password>${password}</password>
 						<applicationName>${applicationName}</applicationName>
 						<replicas>1</replicas>
